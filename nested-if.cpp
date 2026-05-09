@@ -18,7 +18,7 @@ int main(){
         } else{
             cout << "Password yang Anda masukan tidak valid!" << endl;
         }
-        } else{
-            cout << "Nama yang Anda masukan tidak valid!" << endl;
-        }
+    } else{
+        cout << "Nama yang Anda masukan tidak valid!" << endl;
+    }
 }
